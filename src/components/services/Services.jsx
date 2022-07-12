@@ -5,8 +5,8 @@ import { BsCheck2 } from 'react-icons/bs';
 function Services() {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>O que posso oferecer?r</h5>
+      <h2>Serviços</h2>
 
       <div className="container services__container">
       <article className='service'>
@@ -16,141 +16,129 @@ function Services() {
               <ul className='service__list'>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Criação de Interfaces Amigáveis.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Dar vida ao seu site.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Elaborar design inteligente para seu programa.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Criação de design para produtos Físicos.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Arquitetura da Informação.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Key Performance Indicator. (Indicadores-chave da performance)</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Design Thinking</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Gamificação</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Design de Interfaces</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-              </ul>
-        </article>
-        <article className='service'>
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-              <ul className='service__list'>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
-                </li>
-                <li>
-                  <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Princípios de UI/UX</p>
                 </li>
               </ul>
         </article>
         <article className='service'>
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Criação de Conteúdo</h3>
           </div>
               <ul className='service__list'>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Áudios.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Textos.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Criador de Conteúdo Digital.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Conhecimento de SEO.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Atualização Constante.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Organização.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Autenticidade.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Criatividade.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Marketing.</p>
                 </li>
                 <li>
                   <BsCheck2 className='service__list-icon' />
-                  <p>Lorem ipsum dolor sit amet.</p>
+                  <p>Copywriting.</p>
+                </li>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Storytelling.</p>
+                </li>
+              </ul>
+        </article>
+        <article className='service'>
+          <div className="service__head">
+            <h3>Desenvolvimento Web</h3>
+          </div>
+              <ul className='service__list'>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Client-side.</p>
+                </li>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Server-side.</p>
+                </li>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Tecnologia de Database.</p>
+                </li>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Criação de Site ou Aplicação Web.</p>
+                </li>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Backend (Frontend Funcional).</p>
+                </li>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Desenvolvimento de Landing Pages.</p>
+                </li>
+                <li>
+                  <BsCheck2 className='service__list-icon' />
+                  <p>Criação de Aplicações Intuitivas.</p>
                 </li>
               </ul>
         </article>

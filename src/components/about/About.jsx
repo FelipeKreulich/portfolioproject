@@ -9,8 +9,8 @@ import { BsFolderCheck } from 'react-icons/bs';
 function About() {
   return (
     <section id='about'>
-      <h5>Get To Know</h5>
-      <h2>About Me</h2>
+      <h5>Me Conheça</h5>
+      <h2>Sobre mim</h2>
 
       <div className="container about__container">
         <div className="about__me">
@@ -22,30 +22,27 @@ function About() {
           <div className="about__cards">
             <article className='about__card'>
               <BsAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <h5>Experiência</h5>
+              <small>1 Ano de Trabalho</small>
             </article>
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>Clientes</h5>
+              <small>40+ Clientes</small>
             </article>
             <article className='about__card'>
               <BsFolderCheck className='about__icon'/>
-              <h5>Projects</h5>
-              <small>80+ Projects</small>
+              <h5>Projetos</h5>
+              <small>80+ Projetos</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Consequatur nostrum amet velit voluptate mollitia cumque quibusdam dolore molestiae
-              distinctio reprehenderit quae,
-              deleniti hic aut eos harum,
-              doloremque minima laudantium perferendis.
+          Olá Devs🙋🏼‍♂️, meu nome é Felipe, sou do Brasil 🇧🇷, atualmente estou estudando desenvolvimento Full-Stack 📚, sempre fui apaixonado pela área de informática, espero que gostem do meu perfil.💜
+          🚀 "Sou feliz, porque aceito quem fui no passado, gosto de quem sou no presente e luto para ser ainda melhor no futuro." 🌍
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <a href="#contact" className='btn btn-primary'>Vamos Conversar!</a>
         </div>
       </div>
     </section>
