@@ -32,7 +32,7 @@ Foram utilizadas as seguintes ferramentas para o Projeto:
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/FelipeKreulich/podcastrnext>
+$ git clone <https://github.com/FelipeKreulich/portfolioproject>
 
 # Acesse a Pasta no seu Editor de Código
 
